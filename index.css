@@ -2,7 +2,7 @@
     background: linear-gradient(rgb(4,0,0,0.5),rgba(23, 18, 18, 0.5)),url("d053c6d1fc4a5ceca9121e162692df3e.png"); 
     padding:200px 0; 
     color: aliceblue;
-    height: 70vh;
+    height: 90vh;
 }
 body { 
     background-color: #f8f9fa;
@@ -38,3 +38,4 @@ section{
     background-image: linear-gradient(rgb(4,0,0,0,5),rgb(4,0,0,0,5)),url("d053c6d1fc4a5ceca9121e162692df3e.png");
 
 }
+
