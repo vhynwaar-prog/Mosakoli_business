@@ -38,5 +38,8 @@ footer{
     padding: 12px;
     border-radius: 8px;
     font-weight: bold;
-
 }
+.container img{
+    border-radius:10px;
+}
+
