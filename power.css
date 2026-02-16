@@ -1,0 +1,32 @@
+
+.navbar {
+    background-color: darkblue;
+}
+footer{
+    background-color: darkblue;
+}
+.nav-item:hover{
+    background-color: black;
+    padding: 1px;
+    border-radius: 15px;
+    box-shadow: 5px 5px 30px white;
+    font-weight: bold;
+    transition: 0.7s;
+    margin: 7px;
+}
+.nav-item{
+    margin: 5px;
+}
+.hero { 
+    background: linear-gradient(rgb(4,0,0,0.5),rgba(23, 18, 18, 0.5)),url("d053c6d1fc4a5ceca9121e162692df3e.png"); 
+    padding:80px 0; 
+    color: aliceblue;
+    height: 80vh;
+}
+.category-card { transition:0.3s; }
+.category-card:hover { transform: translateY(-5px); }
+.btn-custom { background-color:black; color:white; }
+.btn-custom:hover { background-color: rgb(9, 9, 78); color: aliceblue;}
+.navbar{
+    background-color: darkblue;
+}
