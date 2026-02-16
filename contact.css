@@ -15,4 +15,8 @@ footer{
 }
 .nav-item{
     margin: 5px;
+
+}
+.container img{
+    border-radius:10px;
 }
